@@ -1,0 +1,7 @@
+{
+  "name": "fantasy-movies-proto",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
